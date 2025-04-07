@@ -1,1 +1,19 @@
+Besoins fonctionnels
+- Créer une topologie réseau
+- Personnalisation des éléments (nom, interfaces …)
+- Visualiser la topologie
+- Enregistrer une topologie (dans la bd)
+- Configurer les éléments (ip, masque…)
+- Simulation réseau (algorithme de routage)
+- Visualisation simulation généraliste et détaillés 
+- Ajouter, modifier, supprimer des réseaux / sous réseaux 
+- Ajouter, modifier, supprimer hôtes 
+- Simuler l'envoi d'un datagramme IP
+- Voir modifications des en têtes IP à chaque routeurs traversés 
+- Visualiser en temps réel le chemin emprunté par le datagramme
+
+Besoins non fonctionnels
+- Interface visuelle agréable (couleurs) et intuitive (ex d’interface minimaliste)
+- Exporter/importer des topologies
+- Portabilité web (SE, Navigateur etc.)
 
